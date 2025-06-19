@@ -1,0 +1,17 @@
+[project]
+name = "hm-2"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "AlexandraMelnyk",email = "demaniya.s@gmail.com"}
+]
+readme = "README.md"
+packages = [{ include = "hm_2" }]
+requires-python = ">=3.10"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
