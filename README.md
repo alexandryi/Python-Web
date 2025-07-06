@@ -40,3 +40,7 @@ main.py - додаток
 
 run_select.py - додаток
 
+
+### hm8: Домашне завдання №8
+
+search_quotes.py - додаток
